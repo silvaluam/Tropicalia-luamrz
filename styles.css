@@ -3,6 +3,9 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --alto-contranste-fundo: #000000;
+    --alto-contranste-texto: #ffffff;
+    --alto-contranste-link: #ffd700;
 }
 
 body {
@@ -166,3 +169,12 @@ h2 {
     .apresenta-lista{
     display: none;
     }
+
+    /*alto contanste*/
+
+    .alto-contranste{
+        background-color: var(--alto-contranste-fundo);
+        color: var(--alto-contranste-texto);
+    }
+
+    
