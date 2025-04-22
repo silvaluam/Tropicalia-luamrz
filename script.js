@@ -40,3 +40,7 @@ botaoDeAcessibilidade.setAttribute('aria-expanded', !botaoSelecionado);
 
 
     });
+    ScroollReveal().reveal('#inicio', {delay: 500});
+    ScroollReveal().reveal('#inicio', {delay: 500});
+    ScroollReveal().reveal('#inicio', {delay: 500});
+    ScroollReveal().reveal('#inicio', {delay: 500});
